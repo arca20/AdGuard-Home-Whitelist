@@ -32,3 +32,13 @@
 @@|time-macos.apple.com^$important
 @@|time.apple.com^$important
 @@|vpp.itunes.apple.com^$important
+@||apple.com^$important
+@||icloud.com^$important
+@||icloud-content.com^$important
+@||me.com^$important
+@||mzstatic.com^$important
+@||akadns.net^$important
+@||cdn-apple.com^$important
+@||findmyiphone.apple.com^$important
+@||fmipmobile.icloud.com^$important
+@||fmip.fe.apple-dns.net^$
