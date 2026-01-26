@@ -16,7 +16,7 @@
 @@|api.netflix.com^$important
 @@|api.twitch.tv^$important
 @@|api.vimeo.com^$important
-@@|api2.ingdirect.com.au^$important
+@@||api2.ingdirect.*^$important
 @@|app.hulu.com^$important
 @@|app.twitch.tv^$important
 @@|appboot.netflix.com^$important
@@ -212,7 +212,7 @@
 @@|www.improvedtube.com^$important
 @@|www.piped.video^$important
 @@|www.twitch.tv^$important
-@@|xapi.ing.com.au^$important
+@@||xapi.ing.*^$important
 @@|xt.streamlabs.com^$important
 @@|yewtu.be^$important
 @@|youtube-dl.org^$important

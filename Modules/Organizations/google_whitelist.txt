@@ -128,7 +128,7 @@
 @@|mail-attachment.googleusercontent.com^$important
 @@|mail.google.com^$important
 @@|mail.plus.google.com^$important
-@@|maps.google.com.au^$important
+@@||maps.google.*^$important
 @@|maps.google.com^$important
 @@|maps.googleapis.com^$important
 @@|maps.gstatic.com^$important
@@ -150,7 +150,7 @@
 @@|notifications-pa.googleapis.com^$important
 @@|notifications.google.com^$important
 @@|o.pki.goog^$important
-@@|ogs.google.com.au^$important
+@@|ogs.google.*^$important
 @@|ogs.google.com^$important
 @@|one.google.com^$important
 @@|passwords.google.com^$important
@@ -207,7 +207,7 @@
 @@|tasks-pa.googleapis.com^$important
 @@|timeline.google.com^$important
 @@|tokenized.play.google.com^$important
-@@|translate.google.com.au^$important
+@@|translate.google.*^$important
 @@|update.googleapis.com^$important
 @@|versionhistory.googleapis.com^$important
 @@|video.google.com^$important
